@@ -1,5 +1,5 @@
 # PySpeedTest
-CLI SpeedTest written in Python
+CLI-SpeedTest wrapper with logging written in Python
 
 Dependencies:
 pip install speedtest-cli
